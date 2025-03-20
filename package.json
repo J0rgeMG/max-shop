@@ -1,0 +1,26 @@
+{
+  "name": "max-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J0rgeMG/max-shop.git"
+  },
+  "keywords": [],
+  "author": "Jorge Garcia JorgeGarciaARI@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J0rgeMG/max-shop/issues"
+  },
+  "homepage": "https://github.com/J0rgeMG/max-shop#readme",
+  "description": "A shop created with NodeJS and Express as a personal project.",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
