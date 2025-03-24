@@ -18,6 +18,7 @@
   "homepage": "https://github.com/J0rgeMG/max-shop#readme",
   "description": "A shop created with NodeJS and Express as a personal project.",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^4.21.2"
   },
   "devDependencies": {

@@ -11,6 +11,8 @@ const router = express.Router();
 
 // Handles user sign up
 router.get('/signup', authController.getSignup);
+// Handles user log in
+router.get('/login', authController.getLogin);
 
 // End of routes
 
